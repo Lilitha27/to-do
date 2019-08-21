@@ -1,8 +1,8 @@
 body {
-    background-color: palevioletred;
+    background-color: aliceblue;
 }
 body,input{
-    color:aliceblue;
+    color:blue;
 }
 a {
     text-decoration: none;
@@ -11,7 +11,7 @@ a {
 
 /* list */
 .list{
-    background-color: #fff;
+    background-color:wheat;
     margin:20px auto;
     width:100%;
     max-width:500px;
