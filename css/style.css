@@ -1,0 +1,10 @@
+body {
+    background-color: palevioletred;
+}
+body,input{
+    color:aliceblue;
+}
+a {
+    text-decoration: none;
+    border-bottom:1px dashed aliceblue;
+}
